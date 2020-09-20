@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "class_Animal_interface_Edible", "class_Animal_interface_Edible\class_Animal_interface_Edible.csproj", "{2D55C530-F7B9-489B-9126-B3E38DE45F66}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "interface_IComparable_cho_cac_lop", "interface_IComparable_cho_cac_lop\interface_IComparable_cho_cac_lop.csproj", "{6CC36BAF-0BD1-4C71-BE2C-ED7B97D43C81}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "interface_IComparable_so_sanh_cac_lop", "interface_IComparable_so_sanh_cac_lop\interface_IComparable_so_sanh_cac_lop.csproj", "{DC04497C-8FAE-4B3F-8D76-657BC726831F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shape_Resizeable", "Shape_Resizeable\Shape_Resizeable.csproj", "{68CDB9EC-F2AF-48D6-AB84-EC3FFB65E970}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shape_IColorable", "Shape_IColorable\Shape_IColorable.csproj", "{5E4A0168-16EC-4ACF-A8D3-081461793AD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D55C530-F7B9-489B-9126-B3E38DE45F66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D55C530-F7B9-489B-9126-B3E38DE45F66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D55C530-F7B9-489B-9126-B3E38DE45F66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D55C530-F7B9-489B-9126-B3E38DE45F66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CC36BAF-0BD1-4C71-BE2C-ED7B97D43C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CC36BAF-0BD1-4C71-BE2C-ED7B97D43C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CC36BAF-0BD1-4C71-BE2C-ED7B97D43C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CC36BAF-0BD1-4C71-BE2C-ED7B97D43C81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC04497C-8FAE-4B3F-8D76-657BC726831F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC04497C-8FAE-4B3F-8D76-657BC726831F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC04497C-8FAE-4B3F-8D76-657BC726831F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC04497C-8FAE-4B3F-8D76-657BC726831F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68CDB9EC-F2AF-48D6-AB84-EC3FFB65E970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68CDB9EC-F2AF-48D6-AB84-EC3FFB65E970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68CDB9EC-F2AF-48D6-AB84-EC3FFB65E970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68CDB9EC-F2AF-48D6-AB84-EC3FFB65E970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E4A0168-16EC-4ACF-A8D3-081461793AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E4A0168-16EC-4ACF-A8D3-081461793AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E4A0168-16EC-4ACF-A8D3-081461793AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E4A0168-16EC-4ACF-A8D3-081461793AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2069541-45BA-4C85-954A-6B11C4B468DF}
+	EndGlobalSection
+EndGlobal
